@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<title>Open Cv Project </title>
+
 </head>
 <body>
 
@@ -10,16 +10,17 @@
 <p></p>
 
 
-<div>
+
 <hr style="color:blue">
 <img src="img\openeye.png" alt="Girl in a jacket" width="400" height="300">
+  <hr>
 <img src="img\closeeye.png" alt="Girl in a jacket" width="400" height="300">
-<\div>
 
+<br>
 <p> for closeing use <strong>q:</strong> </p>
 
 
-<p> for closeing use <strong>S:</strong> </p>
+<p> To save use <strong>S:</strong> </p>
 
 
 
